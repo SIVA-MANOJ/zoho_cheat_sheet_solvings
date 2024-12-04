@@ -3,8 +3,6 @@ Question link:
 https://www.geeksforgeeks.org/program-print-diamond-shape/
 """
 
-
-
 n=11        # number of stars in a row
 for i in range(n):      # i --> row
     for j in range(n):      # j --> column
