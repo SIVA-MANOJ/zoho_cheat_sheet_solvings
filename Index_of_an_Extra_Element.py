@@ -1,4 +1,7 @@
 """
+Question Link:-
+https://www.geeksforgeeks.org/problems/index-of-an-extra-element/1
+
 You have given two sorted arrays arr1[] & arr2[] of distinct elements.
 The first array has one element extra added in between. Return the index of the extra element.
 """
